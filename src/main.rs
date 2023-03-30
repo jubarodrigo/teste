@@ -1,11 +1,8 @@
 use crate::token::Token;
 
 
-//aaaaaaa
 mod token;
 mod lexer;
-//aaaaaaabbbbb
-//ccccc
 
 fn main() {
     let input = "if true { var x = 5 } else { var y = 5 }";
