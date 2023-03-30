@@ -2,7 +2,6 @@ use crate::token::Token;
 
 // fffff
 mod token;
-// fasfxzfas
 mod lexer;
 
 fn main() {
